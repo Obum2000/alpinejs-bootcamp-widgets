@@ -1,0 +1,93 @@
+body {
+    background-color: lightskyblue;
+}
+
+.heading {
+    padding-left: 20em;
+    background-color: dodgerblue;
+    border: 1px dotted;
+    margin-bottom: 2em;
+    color: gold;
+    border-radius: 0.5em;
+
+}
+
+.message {
+    padding: 1em;
+    background-color: dodgerblue;
+    margin-bottom: 1em
+}
+
+.messag {
+    padding: 1em;
+    background-color: rgb(255, 187, 0);
+    margin-bottom: 1em;
+    margin-right: 30em
+}
+
+.messa {
+    padding: 1em;
+    background-color: orchid;
+    margin-bottom: 1em;
+    margin-right: 3em
+}
+
+
+.widget {
+    display: flex;
+    justify-content: space-around;
+    border: dotted 1px;
+    padding-bottom: 2em;
+    margin-bottom: 2em;
+    border-radius: 0.5em;
+    border-color: dodgerblue;
+    border-width: 0.5em;
+
+}
+
+.widget1 {
+    display: flex;
+    justify-content: space-around;
+    border: dotted 1px;
+    padding-bottom: 2em;
+    border-radius: 0.5em;
+    border-color: dodgerblue;
+    border-width: 0.5em;
+
+}
+
+.greet {
+    margin-top: 2em;
+    background-color: plum;
+    padding-left: 3em;
+    padding-right: 3em;
+    border-radius: 0.5em;
+}
+
+.transportfare {
+    margin-top: 2em;
+    padding-left: 3em;
+    border-left: 2em;
+    padding-right: 3em;
+    background-color: plum;
+    padding-bottom: 15px;
+    border-radius: 0.5em;
+}
+
+.totalphonebill {
+    margin-top: 2em;
+    padding-left: 3em;
+    padding-right: 3em;
+    background-color: plum;
+    border-radius: 0.5em;
+
+}
+
+.enoughairtime {
+    margin-top: 2em;
+    padding-left: 3em;
+    padding-right: 3em;
+    background-color: plum;
+    padding-bottom: 15px;
+    border-radius: 0.5em;
+}
